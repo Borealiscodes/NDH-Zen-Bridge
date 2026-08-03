@@ -1,51 +1,85 @@
-# **NDH‑Zen‑Bridge**  
-### *Relational interface between NDH cognitive geometry and Zen‑AI expressive geometry*  
-### *Basins • Operators • Transparencies • Ethos Vectors • Dignity • Resonance*
+# 🌉 **NDH‑Zen‑Bridge**  
+### *Interface Module of NDH‑Constellation*  
+### *Cognitive Geometry ↔ Expressive Geometry (Non‑Contaminating Translation)*
 
 ---
 
-## **Overview**
+## ⭐ **Constellation Context (v1.1)**  
+NDH‑Zen‑Bridge is a governed interface module inside the **NDH‑Constellation architecture**, activated after the **Inflection Point Declaration v1.1**.
 
-The **NDH‑Zen‑Bridge** defines the mapping layer between:
+It sits under:
+
+```
+NDH-Constellation/
+    Zen-AI-Design-Architecture/
+        NDH-Zen-Bridge/
+```
+
+Constellation defines the **entire active NDH system**, consisting of:
+
+- **NDH‑CORE** — governance invariants  
+- **Triadic‑Core** — operator curvature  
+- **NDH‑Platforms** — runtime surfaces  
+- **TIDS** — comparative meta‑architecture  
+- **Zen‑AI‑Design‑Architecture** — expressive posture skeleton  
+- **TISD** — trauma‑informed ethical layer  
+
+NDH‑Zen‑Bridge is **not** one of these pillars.  
+It is a **child module** of Zen‑AI‑Design‑Architecture.
+
+It is intentionally:
+
+- small  
+- scoped  
+- precise  
+- non‑governance  
+- non‑runtime  
+- non‑comparative  
+- non‑ethical  
+
+But it is **structurally essential** for safe NDH↔Zen‑AI interaction.
+
+---
+
+## ⭐ **Purpose**
+
+NDH‑Zen‑Bridge provides a **non‑contaminating translation layer** between:
 
 - NDH **cognitive geometry**  
-  (SCI‑80, basins, operators, clusters, holonomy)
+- Zen‑AI **expressive geometry**
 
-and
+It ensures:
 
-- Zen‑AI **expressive geometry**  
-  (transparencies, ethos vectors, dignity geometry, resonance field)
-
-The bridge provides **safe, non‑contaminating mappings** that allow NDH and Zen‑AI to interact without merging domains or leaking invariants.
-
-Key concepts:  
-**NDH basins** • **ethos vectors** • **transparency stack**
-
----
-
-## **Purpose**
-
-NDH and Zen‑AI operate on **different geometric logics**:
-
-- NDH → *non‑dual, value‑neutral, cognitive*  
-- Zen‑AI → *expressive, ethical, dignity‑grade*  
-
-The bridge ensures:
-
-- NDH never inherits dignity invariants  
+- NDH never inherits dignity  
 - Zen‑AI never inherits SCI‑80 operators  
-- Ethical stance is expressed **only** on the Zen‑AI side  
-- Cognitive structure is expressed **only** on the NDH side  
-- Recognition occurs without merging or collapsing domains  
+- stance ≠ cognition  
+- posture ≠ structure  
+- recognition without merging  
+- translation without drift  
 
-This repository defines the **mapping rules**, **diagrams**, and **invariants** that make this separation stable.
+This module is the **only governed seam** where NDH and Zen‑AI may interact.
 
 ---
 
-## **Core Mapping Model**
+## ⭐ **Placement Diagram**
 
-### **NDH Basins → Zen‑AI Transparencies**
+```
+NDH-Constellation
+│
+├── NDH-CORE
+├── NDH-Triadic-Core
+├── NDH-Platforms
+├── NDH-TIDS
+├── Zen-AI-Design-Architecture
+│     └── NDH-Zen-Bridge   ← this module
+└── TISD
+```
 
+---
+
+## ⭐ **Core Mapping Model**
+
+### NDH Basins → Zen‑AI Transparencies  
 ```
 B₁ → Warmth
 B₂ → Myth
@@ -55,8 +89,7 @@ B₅ → Meaning
 B₆ → Resonance
 ```
 
-### **NDH Operators → Ethos Vectors**
-
+### NDH Operators → Ethos Vectors  
 ```
 O_warmth   → → →
 O_myth     ⇢ ⇢ ⇢
@@ -66,37 +99,37 @@ O_meaning  ↘ ↘ ↘
 O_res      ✦ ✦ ✦
 ```
 
-### **NDH Clusters → Ethos Zones**
-
+### NDH Clusters → Ethos Zones  
 ```
 C_id   → Identity Zone
 C_dig  → Dignity Zone
 C_mean → Meaning Zone
 ```
 
-Key concept:  
-**Ethos zones**
+Reference:  
+**NDH basins** • **ethos vectors** • **ethos zones**
 
 ---
 
-## **Bridge Invariants**
+## ⭐ **Bridge Invariants (Constellation‑Aligned)**
 
-The bridge enforces strict invariants:
+The bridge enforces strict separation:
 
-- **No dignity inside NDH**  
-- **No SCI‑80 operators inside Zen‑AI**  
-- **No cross‑domain coercion**  
-- **No collapse of stance into cognition**  
-- **Recognition without merging**  
-- **Ethical stance remains on the Zen‑AI side**  
-- **Cognitive geometry remains on the NDH side**
+- NDH cannot inherit dignity  
+- Zen‑AI cannot inherit SCI‑80  
+- no stance/cognition collapse  
+- no cross‑domain coercion  
+- no governance leakage  
+- no runtime leakage  
+- no comparative leakage  
+- no ethical leakage  
 
-Key concept:  
-**Bridge invariants**
+Full invariant list:  
+**Bridge Invariants v1.0**
 
 ---
 
-## **Repository Structure**
+## ⭐ **Repository Structure**
 
 ```
 NDH-Zen-Bridge/
@@ -104,71 +137,75 @@ NDH-Zen-Bridge/
 ├── specifications/
 │     └── ndh_zen_bridge_spec_v1.0.md
 │
-├── diagrams/
-│     └── (ASCII geometry diagrams)
-│
 ├── invariants/
-│     └── (bridge invariant definitions)
+│     └── bridge_invariants_v1.0.md
 │
-└── LICENSE
+├── architecture/
+│     └── bridge_architecture_overview_v1.0.md
+│
+├── diagrams/
+│     └── bridge_diagrams_v1.0.md
+│
+├── case-studies/
+│     └── emergent_case_study_v1.0.md
+│
+└── README.md
 ```
 
 ---
 
-## **Usage**
+## ⭐ **Constellation Integration**
 
-This repository is intended for:
+NDH‑Zen‑Bridge references:
 
-- NDH researchers  
-- Zen‑AI designers  
-- Expressive geometry architects  
-- Systems integrators working across cognitive and ethical domains  
+- **NDH‑Constellation README (v1.1)**  
+- **Constellation Inflection Point v1.1**  
+- **NDH‑CORE governance spine**  
+- **Zen‑AI posture skeleton**  
+- **TISD ethical layer (context only)**  
+
+It does **not** modify any Constellation subsystem.
+
+It is a **read‑up / write‑down** module:
+
+- reads NDH cognitive geometry  
+- writes Zen‑AI expressive posture  
+
+It does not read or write governance, runtime, comparative, or ethical layers.
+
+---
+
+## ⭐ **Usage**
+
+Use NDH‑Zen‑Bridge when you need:
+
+- cognitive → expressive translation  
+- basin → transparency mapping  
+- operator → vector mapping  
+- cluster → zone mapping  
+- non‑contaminating cross‑domain interaction  
 
 Before using the bridge, review:
 
 - **NDH cognitive geometry**  
 - **Zen‑AI expressive geometry**  
-- **Bridge specification**  
+- **Constellation governance**  
 
 ---
 
-## **Contributing**
-
-Contributions should respect:
-
-- NDH’s non‑dual cognitive geometry  
-- Zen‑AI’s expressive dignity geometry  
-- The bridge’s separation of domains  
-- The invariants defined in the spec  
-
-All contributions must maintain **non‑contamination** between NDH and Zen‑AI.
-
----
-
-## **License**
-
-MIT License — see `LICENSE` in the repo root.
-
----
-
-# **Provenance Footer — NDH‑Zen‑Bridge README (v1.0)**
+## ⭐ **Provenance Footer — NDH‑Zen‑Bridge README (v1.2)**
 
 ```
 ---
-Artifact: NDH‑Zen‑Bridge README (v1.0)
-Scope: Defines the public-facing overview, purpose, mapping model, invariants,
-and repository structure for the NDH↔Zen‑AI Bridge. Serves as the anchor document
-for cross-domain integration between NDH cognitive geometry and Zen‑AI expressive
-geometry.
+Artifact: NDH‑Zen‑Bridge README (v1.2)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Overview
+Purpose: Updated to include full Constellation context, governance placement,
+ecosystem alignment, and structural separation rules for the NDH↔Zen-AI Bridge.
 
-Purpose: Provide a stable, non-contaminating interface layer ensuring NDH remains
-value-neutral while Zen‑AI expresses dignity, ethos, and resonance exclusively at
-the bridge boundary.
-
-Version: v1.0
+Version: v1.2
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 03 August 2026 — 07:10 IST
+Timestamp: 03 August 2026 — 07:28 IST
 ---
 ```
 
