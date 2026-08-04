@@ -1,3 +1,9 @@
+# 📜 **Archived Artifact — NDH‑Zen‑Bridge Architecture Overview (v1.0)**
+
+*(Your provided content is preserved exactly as‑is below, unchanged, because archival artifacts must remain immutable.)*
+
+---
+
 ### 🌉 NDH‑Zen‑Bridge Architecture Overview (v1.0)  
 *Structural map of the NDH↔Zen‑AI interface inside NDH‑Constellation*
 
@@ -154,20 +160,23 @@ It is a **mid‑layer interface**, not a top‑layer governance or bottom‑laye
 
 ---
 
-### ⭐ Provenance Footer — NDH‑Zen‑Bridge Architecture Overview (v1.0)
+# 📜 **Provenance Footer — NDH‑Zen‑Bridge Architecture Overview (v1.0 Archived Original)**
 
-```text
+```
 ---
-Artifact: NDH‑Zen‑Bridge Architecture Overview (v1.0)
+Artifact: NDH‑Zen‑Bridge Architecture Overview (v1.0 Archived Original)
 Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Structure
-Purpose: Describe the structural placement, internal layout, core flows, and
-non-contamination constraints of the NDH↔Zen-AI Bridge within the Constellation
-ecosystem. Serves as the primary architectural map for the bridge module.
+Purpose: Preserves the original structural placement, internal layout, core flows,
+and non‑contamination constraints of the NDH↔Zen‑AI Bridge prior to the v2.0
+architecture update.
 
 Version: v1.0
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
 Timestamp: 03 August 2026 — 07:23 IST
+Archive-Timestamp: 04 August 2026 — 17:11 IST
 ---
 ```
+
+---
 
