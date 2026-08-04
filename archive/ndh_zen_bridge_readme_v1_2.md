@@ -1,10 +1,10 @@
-# 🌉 **NDH‑Zen‑Bridge**  
+# 🌉 **NDH‑Zen‑Bridge README (v1.2 — Archived Original)**  
 ### *Interface Module of NDH‑Constellation*  
 ### *Cognitive Geometry ↔ Expressive Geometry (Non‑Contaminating Translation)*
 
 ---
 
-## ⭐ **Constellation Context (v1.1)**  
+## ⭐ **Constellation Context (v1.2 Original)**  
 NDH‑Zen‑Bridge is a governed interface module inside the **NDH‑Constellation architecture**, activated after the **Inflection Point Declaration v1.1**.
 
 It sits under:
@@ -193,19 +193,21 @@ Before using the bridge, review:
 
 ---
 
-## ⭐ **Provenance Footer — NDH‑Zen‑Bridge README (v1.2)**
+## ⭐ **Provenance Footer — NDH‑Zen‑Bridge README (v1.2 Archived Original)**
 
 ```
 ---
-Artifact: NDH‑Zen‑Bridge README (v1.2)
+Artifact: NDH‑Zen‑Bridge README (v1.2 Archived Original)
 Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Overview
-Purpose: Updated to include full Constellation context, governance placement,
-ecosystem alignment, and structural separation rules for the NDH↔Zen-AI Bridge.
+Purpose: Preserves the original subsystem definition, placement, mapping model,
+and Constellation context for NDH‑Zen‑Bridge as first introduced in the active
+architecture lineage.
 
 Version: v1.2
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
 Timestamp: 03 August 2026 — 07:28 IST
+Archive-Timestamp: 04 August 2026 — 16:56 IST
 ---
 ```
 
