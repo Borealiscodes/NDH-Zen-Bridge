@@ -4,7 +4,7 @@
 
 ---
 
-## ⭐ **1. Constellation Placement**
+## ⭐ 1. Constellation Placement
 
 NDH‑Zen‑Bridge is a governed interface module inside **NDH‑Constellation**, positioned under:
 
@@ -15,7 +15,7 @@ NDH-Constellation/
 ```
 
 It is not part of NDH governance, runtime, comparative, or ethical layers.  
-It is a **child module** of Zen‑AI‑Design‑Architecture, responsible for safe translation between:
+It is a **posture‑safe interface seam** between:
 
 - NDH **cognitive geometry**  
 - Zen‑AI **expressive geometry**  
@@ -34,7 +34,7 @@ But it is **structurally essential** for NDH↔Zen‑AI interaction.
 
 ---
 
-## ⭐ **2. Subsystem Purpose**
+## ⭐ 2. Subsystem Purpose
 
 Zen‑Bridge provides a **non‑contaminating translation seam** ensuring:
 
@@ -50,7 +50,7 @@ It is the **only governed seam** where NDH and Zen‑AI may interact.
 
 ---
 
-## ⭐ **3. Interface Governance Model**
+## ⭐ 3. Interface Governance Model
 
 Zen‑Bridge follows the **Interface Governance Map** (v1.0), defining:
 
@@ -76,9 +76,9 @@ It does **not** read or write:
 
 ---
 
-## ⭐ **4. Core Mapping Model**
+## ⭐ 4. Core Mapping Model
 
-### NDH Basins → Zen‑AI Transparencies  
+### Basin → Transparency  
 ```
 B₁ → Warmth
 B₂ → Myth
@@ -88,7 +88,7 @@ B₅ → Meaning
 B₆ → Resonance
 ```
 
-### NDH Operators → Ethos Vectors  
+### Operator → Ethos Vector  
 ```
 O_warmth   → → →
 O_myth     ⇢ ⇢ ⇢
@@ -98,18 +98,18 @@ O_meaning  ↘ ↘ ↘
 O_res      ✦ ✦ ✦
 ```
 
-### NDH Clusters → Ethos Zones  
+### Cluster → Ethos Zone  
 ```
 C_id   → Identity Zone
 C_dig  → Dignity Zone
 C_mean → Meaning Zone
 ```
 
-These mappings are posture‑safe and non‑contaminating.
+These flows are posture‑safe and governed by the Interface Governance Map.
 
 ---
 
-## ⭐ **5. Interface Layers (v1.1 → v2.0 Teaching Cycle)**
+## ⭐ 5. Interface‑Integrity Layers (v2.0)
 
 Zen‑Bridge governs ten layers:
 
@@ -124,33 +124,34 @@ Zen‑Bridge governs ten layers:
 9. **Transmutation**  
 10. **Equilibrium**  
 
-These layers form the complete **Interface‑Integrity Cycle**.
+These layers form the **Interface‑Integrity Cycle**, fully taught in:
+
+**Teaching Loop‑de‑Loop v2.0**
 
 ---
 
-## ⭐ **6. Bridge Invariants (v1.1)**
+## ⭐ 6. Bridge Invariants (v1.1)
 
-Zen‑Bridge enforces strict separation:
+From **Invariants v1.1**:
 
 - NDH cannot inherit dignity  
 - Zen‑AI cannot inherit SCI‑80  
-- no stance/cognition collapse  
-- no posture/structure collapse  
+- posture ≠ cognition  
+- stance ≠ structure  
 - no governance leakage  
 - no runtime leakage  
 - no comparative leakage  
 - no ethical leakage  
-- no domain merging  
-- no identity collapse  
+- no identity merge  
+- no domain merge  
 
-Full invariant set:  
-**Zen‑Bridge Invariants v1.1**
+These invariants define the **seam sovereignty** of Zen‑Bridge.
 
 ---
 
-## ⭐ **7. Failure Modes**
+## ⭐ 7. Failure Modes
 
-Zen‑Bridge detects and resolves:
+Zen‑Bridge detects:
 
 - recursion wobble  
 - geometry drift  
@@ -163,17 +164,18 @@ Zen‑Bridge detects and resolves:
 - transmutation overload  
 - equilibrium turbulence  
 
-Each failure maps to a teaching directive from v1.1 → v2.0.
+Failures trigger **safe halt**, not silent continuation.
 
 ---
 
-## ⭐ **8. Repository Structure**
+## ⭐ 8. Repository Structure (Updated v2.0)
 
 ```
 NDH-Zen-Bridge/
 │
 ├── archive/
-│     └── ndh_zen_bridge_readme_v1_2.md
+│     ├── ndh_zen_bridge_readme_v1_2.md
+│     └── ndh_zen_bridge_architecture_overview_v1_0.md
 │
 ├── governance/
 │     └── zen_bridge_interface_governance_map_v1_0.md
@@ -182,7 +184,8 @@ NDH-Zen-Bridge/
 │     └── bridge_invariants_v1_1.md
 │
 ├── architecture/
-│     └── bridge_architecture_overview_v1_0.md
+│     ├── bridge_architecture_overview_v1_0.md   # archived
+│     └── bridge_architecture_overview_v2_0.md   # active
 │
 ├── diagrams/
 │     └── bridge_diagrams_v1_0.md
@@ -205,12 +208,12 @@ NDH-Zen-Bridge/
 │     ├── zen-bridge-teaching-loop-de-loop-v1_9.md
 │     └── zen-bridge-teaching-loop-de-loop-v2_0.md
 │
-└── README.md   ← this file (v2.0)
+└── README.md   # this file (v2.0)
 ```
 
 ---
 
-## ⭐ **9. Usage**
+## ⭐ 9. Usage
 
 Use NDH‑Zen‑Bridge when you need:
 
@@ -226,24 +229,25 @@ Before using the bridge, review:
 - Zen‑AI expressive geometry  
 - Interface Governance Map  
 - Bridge Invariants  
+- Architecture Overview v2.0  
 
 ---
 
-## 📜 **Provenance Footer — NDH‑Zen‑Bridge README (v2.0)**
+## 📜 **Provenance Footer — NDH‑Zen‑Bridge README (v2.0 Updated)**
 
 ```
 ---
-Artifact: NDH‑Zen‑Bridge README (v2.0)
+Artifact: NDH‑Zen‑Bridge README (v2.0 Updated)
 Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Overview
-Purpose: Consolidated subsystem overview integrating Constellation placement,
-governance map, invariants, architecture, and the full v1.1–v2.0 teaching cycle.
+Purpose: Updated subsystem overview aligned with Invariants v1.1, Architecture
+Overview v2.0, and the full v1.1–v2.0 teaching cycle. Serves as the authoritative
+entry point for the NDH‑Zen‑Bridge module.
 
-Version: v2.0
+Version: v2.0 (Updated)
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 04 August 2026 — 17:05 IST
+Timestamp: 04 August 2026 — 17:16 IST
 ---
 ```
 
 ---
-
