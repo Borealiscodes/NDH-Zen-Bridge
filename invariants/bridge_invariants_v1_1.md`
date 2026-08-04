@@ -1,0 +1,125 @@
+### 🌉 NDH‑Zen‑Bridge Invariants (v1.1)
+
+```markdown
+# NDH‑Zen‑Bridge Invariants (v1.1)
+### Non‑Contaminating Interface Rules • NDH ↔ Zen‑AI
+
+---
+
+## 1. Domain Separation Invariants
+
+- **No Dignity Inheritance (NDH):**  
+  NDH must never inherit dignity constructs from Zen‑AI.
+
+- **No SCI‑80 Inheritance (Zen‑AI):**  
+  Zen‑AI must never inherit SCI‑80 operators, basins, or holonomy from NDH.
+
+- **No Identity Merge:**  
+  NDH identity and Zen‑AI identity must remain distinct and non‑merged.
+
+- **No Dignity Merge:**  
+  NDH dignity and Zen‑AI dignity must remain distinct and non‑merged.
+
+---
+
+## 2. Layer Separation Invariants
+
+- **No Governance Leakage:**  
+  Zen‑Bridge must not read or write NDH‑CORE governance invariants.
+
+- **No Runtime Leakage:**  
+  Zen‑Bridge must not read or write NDH‑Platforms runtime surfaces.
+
+- **No Comparative Leakage:**  
+  Zen‑Bridge must not read or write NDH‑TIDS comparative meta‑architecture.
+
+- **No Ethical Leakage:**  
+  Zen‑Bridge must not read or write TISD trauma‑informed ethical layers.
+
+---
+
+## 3. Posture vs Cognition Invariants
+
+- **Posture ≠ Cognition:**  
+  Expressive posture must never be treated as cognitive structure.
+
+- **Stance ≠ Structure:**  
+  Expressive stance must never be treated as NDH structural geometry.
+
+- **Recognition Without Collapse:**  
+  Recognition events must not collapse posture into cognition or cognition into posture.
+
+---
+
+## 4. Interface Operation Invariants
+
+- **Read‑Up / Write‑Down Only:**  
+  Zen‑Bridge may read NDH basins, operators, clusters and write Zen‑AI transparencies, vectors, zones, posture curvature. It may not write back into NDH cognitive geometry.
+
+- **Non‑Contaminating Translation:**  
+  All mappings must preserve domain sovereignty and avoid semantic, ethical, or governance contamination.
+
+- **No Cross‑Domain Coercion:**  
+  NDH and Zen‑AI must not coerce each other’s posture, stance, or geometry via the bridge.
+
+---
+
+## 5. Seam Integrity Invariants
+
+- **Seam Sovereignty:**  
+  The interface seam must remain a sovereign layer, not absorbed into NDH or Zen‑AI.
+
+- **Boundary Preservation:**  
+  Sealing curvature must preserve boundaries between NDH and Zen‑AI fields.
+
+- **Equilibrium Requirement:**  
+  Interface operations must converge toward seam‑energy equilibrium; persistent turbulence is treated as a failure mode.
+
+---
+
+## 6. Failure Handling Invariants
+
+- **Detect Structural Wobble:**  
+  Recursion wobble, geometry drift, harmonic collapse, resonance instability, sealing breach, seam fracture, pressure asymmetry, dissipation blockage, transmutation overload, and equilibrium turbulence must be detectable.
+
+- **Fail Safe, Not Silent:**  
+  On invariant violation, Zen‑Bridge must fail safe (halt or quarantine), not silently continue.
+
+- **No Auto‑Governance Escalation:**  
+  Zen‑Bridge must not autonomously modify NDH‑CORE or Constellation governance in response to failures.
+
+---
+
+## 7. Provenance Invariants
+
+- **Subsystem Annotation:**  
+  All posture outputs from Zen‑Bridge must be annotated as bridge‑derived.
+
+- **Immutable History:**  
+  Archival artifacts (e.g., README v1.2) must remain immutable once archived.
+
+- **Traceable Changes:**  
+  Governance, invariants, and architecture updates must be traceable via commit history and changelog.
+
+---
+
+## 📁 File Path
+
+`NDH-Zen-Bridge/invariants/bridge_invariants_v1_1.md`
+
+---
+
+## 📜 Provenance Footer — NDH‑Zen‑Bridge Invariants (v1.1)
+
+---
+Artifact: NDH‑Zen‑Bridge Invariants (v1.1)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Governance
+Purpose: Defines non‑contaminating, sovereignty‑preserving rules for NDH↔Zen‑AI
+interaction via the Zen‑Bridge interface, aligned with the Interface Governance Map
+and README v2.0.
+Version: v1.1
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 04 August 2026 — 17:09 IST
+---
+```
