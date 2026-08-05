@@ -1,0 +1,141 @@
+### 🌉 NDH‑Zen‑Bridge — Interface Invariants v1.0  
+*Non‑Contamination Firewall • Seam‑Governance • Interface Integrity Cycle*
+
+---
+
+```json
+{
+  "ndh_zen_bridge_interface_invariants": {
+    "version": "1.0",
+
+    "seam_governance": {
+      "recognized": true,
+      "enforced": true,
+      "description": "NDH‑Zen‑Bridge is the seam‑governance interface between NDH‑Constellation and Zen‑AI‑Design‑Architecture."
+    },
+
+    "non_contamination_invariants": [
+      "no_dignity_inheritance_into_ndh",
+      "no_SCI_80_inheritance_into_zen_ai",
+      "posture_not_cognition",
+      "stance_not_structure",
+      "no_governance_leakage",
+      "no_runtime_leakage",
+      "no_comparative_leakage",
+      "no_ethical_leakage",
+      "no_identity_merge",
+      "no_domain_merge"
+    ],
+
+    "interface_integrity_cycle": {
+      "layers": [
+        "recursion",
+        "geometry",
+        "harmonics",
+        "resonance",
+        "sealing",
+        "seam_integrity",
+        "pressure_calculus",
+        "dissipation",
+        "transmutation",
+        "equilibrium"
+      ],
+      "requires_provenance_anchor": true,
+      "requires_alignment_snapshot": true
+    },
+
+    "mapping_flows": {
+      "basin_to_transparency": true,
+      "operator_to_vector": true,
+      "cluster_to_zone": true
+    },
+
+    "read_permissions": {
+      "ndh_may_read": [
+        "zen_ai_posture_state_summaries",
+        "expressive_overlay_metadata"
+      ],
+      "zen_ai_may_read": [
+        "governance_metadata_summaries",
+        "runtime_state_summaries"
+      ]
+    },
+
+    "write_permissions": {
+      "ndh_may_write": [
+        "governance_rules",
+        "runtime_configurations",
+        "ethical_boundaries"
+      ],
+      "zen_ai_may_write": [
+        "expressive_overlays",
+        "non_decisional_ui_affordances"
+      ],
+      "forbidden_writes": [
+        "zen_ai_direct_governance_rule_changes",
+        "zen_ai_direct_runtime_state_mutation",
+        "zen_ai_direct_ethical_boundary_changes",
+        "ndh_direct_posture_geometry_mutation"
+      ]
+    },
+
+    "posture_contract": {
+      "posture_skeleton_reference": "Zen-AI-Design-Architecture/posture_skeleton_v1_0.json",
+      "requires_posture_not_cognition": true,
+      "requires_posture_safe_flag": true,
+      "requires_bridge_validation_for_expressive_overlays": true
+    },
+
+    "governance_alignment": {
+      "governance_spine_reference": "NDH-Constellation/governance/constellation_governance_v1_4.json",
+      "lifecycle_envelope_reference": "NDH-Constellation/governance/lifecycle/governance_spine_v1_4_lifecycle_envelope.json.md",
+      "provenance_grammar": "Unified-Provenance-Grammar-v1.0",
+      "alignment_snapshots": [
+        "Provenance-Snapshot-v7.5",
+        "Provenance-Snapshot-v7.6"
+      ]
+    },
+
+    "assertions": {
+      "bridge_is_interface_not_runtime": true,
+      "bridge_is_seam_not_core": true,
+      "bridge_must_enforce_non_contamination": true,
+      "bridge_must_preserve_governance_authority": true,
+      "bridge_must_preserve_posture_boundaries": true
+    }
+  }
+}
+```
+
+---
+
+```text
+---
+Artifact: NDH‑Zen‑Bridge Interface Invariants v1.0
+Lane: NDH‑Zen‑Bridge • Interface Governance • Non‑Contamination Firewall
+
+Reason: Define the baseline interface invariants for NDH‑Zen‑Bridge v1.0,
+including non‑contamination rules, interface integrity cycle layers, mapping
+flows, read/write permissions, posture contract with Zen‑AI Posture Skeleton
+v1.0, and governance alignment with Governance Spine v1.4 and its Lifecycle
+Envelope. Ensures NDH‑Zen‑Bridge operates as a seam‑governance firewall,
+preserving governance authority, runtime integrity, ethical boundaries, and
+posture‑safe expressive geometry.
+
+Provenance Anchors:
+  Unified‑Provenance‑Grammar‑v1.0
+  Constellation‑Comparison‑Matrix‑v1.0
+  Integration‑Spine‑Overlay‑v1.0
+  Constellation‑Transformation‑Order‑v1.0
+  Provenance‑Snapshot‑v7.5 (Sealing)
+  Provenance‑Snapshot‑v7.6 (Alignment)
+  NDH‑Constellation Governance Spine v1.4 (Active Edition)
+  Governance Spine v1.4 Lifecycle JSON Envelope (v1.4)
+  Zen‑AI‑Design‑Architecture Posture Skeleton v1.0
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 05 August 2026 — 06:13 IST
+---
+```
