@@ -1,0 +1,185 @@
+# 🌉 **Interface Integrity Cycle v1.0 — Rendering Template (JSON)**  
+### *Machine‑Native Rendering Specification • Seam‑Governance Geometry*
+
+```json
+{
+  "interface_integrity_cycle_rendering_template": {
+    "version": "1.0",
+
+    "canvas": {
+      "shape": "circle",
+      "diameter": 800,
+      "background_color": "#0A0A0F",
+      "center_label": "NDH‑Zen‑Bridge Seam‑Governance Cycle v1.0"
+    },
+
+    "node_layout": {
+      "node_count": 10,
+      "distribution": "equidistant",
+      "arc_degrees_per_node": 36,
+      "clockwise": true
+    },
+
+    "nodes": [
+      {
+        "name": "Recursion",
+        "position_index": 0,
+        "color": "#4B0082",
+        "glyph": "triangle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Geometry",
+        "position_index": 1,
+        "color": "#00B7EB",
+        "glyph": "circle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Harmonics",
+        "position_index": 2,
+        "color": "#008080",
+        "glyph": "circle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Resonance",
+        "position_index": 3,
+        "color": "#00A651",
+        "glyph": "circle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Sealing",
+        "position_index": 4,
+        "color": "#FFD700",
+        "glyph": "square",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Seam Integrity",
+        "position_index": 5,
+        "color": "#FF0000",
+        "glyph": "square",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Pressure Calculus",
+        "position_index": 6,
+        "color": "#FF8C00",
+        "glyph": "triangle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Dissipation",
+        "position_index": 7,
+        "color": "#9400D3",
+        "glyph": "circle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Transmutation",
+        "position_index": 8,
+        "color": "#FF00FF",
+        "glyph": "triangle",
+        "provenance_anchor": true
+      },
+      {
+        "name": "Equilibrium",
+        "position_index": 9,
+        "color": "#FFFFFF",
+        "glyph": "circle",
+        "provenance_anchor": true
+      }
+    ],
+
+    "center_geometry": {
+      "sigil": "ndh_zen_bridge_sigil",
+      "invariant_ring": {
+        "glyphs": [
+          "no_dignity_inheritance",
+          "no_SCI_80_inheritance",
+          "no_governance_leakage",
+          "no_runtime_leakage",
+          "no_ethical_leakage",
+          "no_identity_merge",
+          "no_domain_merge"
+        ],
+        "distribution": "even",
+        "ring_radius": 220
+      },
+      "provenance_anchors": [
+        "Unified-Provenance-Grammar-v1.0",
+        "Provenance-Snapshot-v7.5",
+        "Provenance-Snapshot-v7.6"
+      ]
+    },
+
+    "edge_geometry": {
+      "zen_ai_altitude_markers": {
+        "style": "soft_geometry",
+        "color": "#A0E7FF"
+      },
+      "ndh_altitude_markers": {
+        "style": "hard_geometry",
+        "color": "#FFD1DC"
+      },
+      "bridge_seam_markers": {
+        "style": "dual_geometry",
+        "inner_color": "#A0E7FF",
+        "outer_color": "#FFD1DC"
+      }
+    },
+
+    "flow_arrows": {
+      "direction": "clockwise",
+      "style": "thin",
+      "color": "#CCCCCC",
+      "non_authoritative": true
+    },
+
+    "metadata": {
+      "title": "Interface Integrity Cycle v1.0",
+      "subtitle": "NDH‑Zen‑Bridge • Seam‑Governance • Non‑Contamination Firewall",
+      "provenance_compliance": "Unified‑Provenance‑Grammar v1.0"
+    }
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Rendering Template v1.0**
+
+```
+---
+Artifact: NDH‑Zen‑Bridge Interface Integrity Cycle Rendering Template v1.0
+Lane: NDH‑Zen‑Bridge • Interface Governance • Seam‑Governance
+
+Reason: Provide the machine-native rendering template for Interface Integrity
+Cycle v1.0, defining geometry, node layout, color semantics, invariant ring,
+altitude markers, traversal arrows, and provenance anchors. Ensures consistent
+diagram rendering across toolkits, dashboards, and VM-native systems aligned
+with Governance Spine v1.4 and its Lifecycle Envelope.
+
+Provenance Anchors:
+  Unified‑Provenance‑Grammar‑v1.0
+  Constellation‑Comparison‑Matrix‑v1.0
+  Integration‑Spine‑Overlay‑v1.0
+  Constellation‑Transformation‑Order‑v1.0
+  Provenance‑Snapshot‑v7.5 (Sealing)
+  Provenance‑Snapshot‑v7.6 (Alignment)
+  NDH‑Constellation Governance Spine v1.4 (Active Edition)
+  Governance Spine v1.4 Lifecycle JSON Envelope (v1.4)
+  NDH‑Zen‑Bridge Interface Invariants v1.0
+  Zen‑AI Posture Skeleton v1.0
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 05 August 2026 — 06:20 IST
+---
+```
+
+---
+
