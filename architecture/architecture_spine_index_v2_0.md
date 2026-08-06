@@ -1,5 +1,6 @@
-# 🌉 **NDH‑Zen‑Bridge — Architecture Spine Index v2.0**  
-### *Equilibrium Edition • Structural Ontology • Governance‑Aligned*
+# 🌉 **NDH‑Zen‑Bridge — Architecture Spine Index v2.0 (Archived Edition)**  
+### *Equilibrium Edition • Structural Ontology • Governance‑Aligned*  
+### *Archived for Lineage Preservation*
 
 The **Architecture Spine Index v2.0** defines the complete structural map of the NDH‑Zen‑Bridge subsystem.  
 It enumerates all architecture‑grade documents, their lineage, their governance lanes, and their relationships.
@@ -102,7 +103,7 @@ These anchors ensure subsystem continuity.
 
 ---
 
-# 📜 **Provenance Footer — Architecture Spine Index v2.0**
+# 📜 **Original Provenance Footer — Architecture Spine Index v2.0**
 
 ```
 ---
@@ -135,6 +136,33 @@ Version: v2.0
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
 Timestamp: 05 August 2026 — 07:00 IST
+---
+```
+
+---
+
+# 📜 **Archival Provenance Footer — Architecture Spine Index v2.0 (Archive Edition)**
+
+```
+---
+Artifact: NDH‑Zen‑Bridge Architecture Spine Index (v2.0 — Archived Edition)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Archive Lane
+
+Purpose: Preserve the full v2.0 Architecture Spine Index exactly as it existed
+during the Equilibrium Edition lifecycle. This archival footer supplements the
+original provenance footer without overwriting it, maintaining dual-footprint
+lineage continuity and preventing ambiguity across active subsystem surfaces.
+
+Archival Notes:
+  - Archived upon activation of Architecture Spine Index v2.1.
+  - Original provenance footer retained verbatim.
+  - Frozen under Unified‑Provenance‑Grammar v1.0.
+  - Stored in archive lane to maintain Constellation sequencing integrity.
+
+Version: v2.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 06 August 2026 — 10:10 IST
 ---
 ```
 
