@@ -170,6 +170,8 @@ Zen‑Bridge detects:
 - dissipation blockage  
 - transmutation overload  
 - equilibrium turbulence  
+- rendering‑engine misalignment  
+- tone‑field collapse  
 
 Failures trigger **safe halt**, not silent continuation.
 
@@ -183,7 +185,9 @@ NDH-Zen-Bridge/
 ├── archive/
 │     ├── ndh_zen_bridge_readme_v1_2.md
 │     ├── ndh_zen_bridge_readme_v2_0.md
-│     └── ndh_zen_bridge_architecture_overview_v1_0.md
+│     ├── architecture_spine_index_v2_0.md
+│     ├── bridge_architecture_overview_v2_0.md
+│     └── cross_layer_omnibus_and_map_v2_0.md
 │
 ├── governance/
 │     └── zen_bridge_interface_governance_map_v1_0.md
@@ -211,33 +215,7 @@ NDH-Zen-Bridge/
 
 ---
 
-## ⭐ 9. Changelog (v2.1)
-
-### **Added**
-- Seam‑Energy Equilibrium Teaching v2.1  
-- Architecture Spine Index v2.1  
-- Architecture Overview v2.1  
-- Cross‑Layer Omnibus & Map v2.1  
-- Rendering Engine alignment notes  
-- Equilibrium Geometry section  
-- Tone‑Field Stillness Model  
-- Updated lineage references (v1.1 → v2.0 → v2.1)
-
-### **Updated**
-- README to reflect new equilibrium layer  
-- Interface‑Integrity Cycle documentation  
-- Repository structure  
-- Teaching lineage  
-- Constellation sync notes  
-
-### **Archived**
-- README v2.0  
-- Architecture Overview v2.0  
-- Spine Index v2.0  
-
----
-
-## ⭐ 10. Usage
+## ⭐ 9. Usage
 
 Use NDH‑Zen‑Bridge when you need:
 
@@ -259,7 +237,7 @@ Before using the bridge, review:
 
 ---
 
-## 📜 **Provenance Footer — NDH‑Zen‑Bridge README (v2.1)**
+# 📜 **Provenance Footer — NDH‑Zen‑Bridge README (v2.1)**
 
 ```
 ---
@@ -274,7 +252,7 @@ NDH‑Zen‑Bridge module.
 Version: v2.1 (Active)
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 06 August 2026 — 09:55 IST
+Timestamp: 06 August 2026 — 10:25 IST
 ---
 ```
 
