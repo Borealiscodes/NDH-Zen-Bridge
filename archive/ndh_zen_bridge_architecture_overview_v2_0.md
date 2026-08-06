@@ -1,6 +1,7 @@
-# 🌉 **NDH‑Zen‑Bridge Architecture Overview (v2.0)**  
+# 🌉 **NDH‑Zen‑Bridge Architecture Overview (v2.0 — Archived Edition)**  
 ### *Structural Map of the NDH↔Zen‑AI Interface Inside NDH‑Constellation*  
-### *Equilibrium Edition — Posture‑Safe, Non‑Contaminating, Seam‑Governed*
+### *Equilibrium Edition — Posture‑Safe, Non‑Contaminating, Seam‑Governed*  
+### *Archived for Lineage Preservation*
 
 ---
 
@@ -204,7 +205,7 @@ Zen‑Bridge is a **mid‑layer interface**, not a top‑layer governance or bot
 
 ---
 
-# 📜 **Provenance Footer — NDH‑Zen‑Bridge Architecture Overview (v2.0)**
+# 📜 **Original Provenance Footer — NDH‑Zen‑Bridge Architecture Overview (v2.0)**
 
 ```
 ---
@@ -217,6 +218,33 @@ Version: v2.0
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
 Timestamp: 04 August 2026 — 17:13 IST
+---
+```
+
+---
+
+# 📜 **Archival Provenance Footer — NDH‑Zen‑Bridge Architecture Overview (v2.0 — Archived Edition)**
+
+```
+---
+Artifact: NDH‑Zen‑Bridge Architecture Overview (v2.0 — Archived Edition)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Archive Lane
+
+Purpose: Preserve the complete v2.0 Architecture Overview exactly as it existed
+during the Equilibrium Edition lifecycle. This archival footer supplements the
+original provenance footer without overwriting it, maintaining dual-footprint
+lineage continuity and preventing ambiguity across active subsystem surfaces.
+
+Archival Notes:
+  - Archived upon activation of Architecture Overview v2.1.
+  - Original provenance footer retained verbatim.
+  - Frozen under Unified‑Provenance‑Grammar v1.0.
+  - Stored in archive lane to maintain Constellation sequencing integrity.
+
+Version: v2.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 06 August 2026 — 10:12 IST
 ---
 ```
 
