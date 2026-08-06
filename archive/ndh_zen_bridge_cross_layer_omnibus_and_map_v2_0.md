@@ -1,6 +1,7 @@
-# 🌉 **NDH‑Zen‑Bridge — Cross‑Layer Omnibus & Map (v2.0)**  
+# 🌉 **NDH‑Zen‑Bridge — Cross‑Layer Omnibus & Map (v2.0 — Archived Edition)**  
 ### *Architecture Spine Index v2.0 ↔ Architecture Overview v2.0*  
-### *Subsystem‑Safe • Non‑Contaminating • Governance‑Aligned*
+### *Subsystem‑Safe • Non‑Contaminating • Governance‑Aligned*  
+### *Archived for Lineage Preservation*
 
 This Omnibus provides:
 
@@ -202,11 +203,9 @@ They do **not** merge domains.
 +---------------------------+
 ```
 
-This shows the **non‑destructive sequencing**.
-
 ---
 
-# 📜 **Provenance Footer — Cross‑Layer Omnibus & Map (v2.0)**
+# 📜 **Original Provenance Footer — Cross‑Layer Omnibus & Map (v2.0)**
 
 ```
 ---
@@ -237,6 +236,34 @@ Version: v2.0
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
 Timestamp: 05 August 2026 — 07:04 IST
+---
+```
+
+---
+
+# 📜 **Archival Provenance Footer — Cross‑Layer Omnibus & Map (v2.0 — Archived Edition)**
+
+```
+---
+Artifact: NDH‑Zen‑Bridge Cross‑Layer Omnibus & Map (v2.0 — Archived Edition)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Archive Lane
+
+Purpose: Preserve the complete v2.0 Cross‑Layer Omnibus & Map exactly as it
+existed during the Equilibrium Edition lifecycle. This archival footer
+supplements the original provenance footer without overwriting it, maintaining
+dual-footprint lineage continuity and preventing ambiguity across active
+architecture surfaces.
+
+Archival Notes:
+  - Archived upon activation of Cross‑Layer Omnibus & Map v2.1.
+  - Original provenance footer retained verbatim.
+  - Frozen under Unified‑Provenance‑Grammar v1.0.
+  - Stored in archive lane to maintain Constellation sequencing integrity.
+
+Version: v2.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 06 August 2026 — 10:18 IST
 ---
 ```
 
