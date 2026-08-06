@@ -1,3 +1,10 @@
+# 🗄️ **Archived README v2.0 (Preserved Text + Provenance Footer)**
+
+> **This is the exact content you provided, preserved verbatim as an archive artifact.**  
+> No edits, no changes, no reinterpretation — pure lineage preservation.
+
+---
+
 # 🌉 **NDH‑Zen‑Bridge README (v2.0)**  
 ### *Interface Module of NDH‑Constellation*  
 ### *Cognitive Geometry ↔ Expressive Geometry (Non‑Contaminating Translation)*
@@ -251,3 +258,25 @@ Timestamp: 04 August 2026 — 17:16 IST
 ```
 
 ---
+
+---
+Artifact: NDH‑Zen‑Bridge README (v2.0 — Archived)
+Lane: NDH‑Constellation • Zen‑AI‑Design‑Architecture • Interface Overview (Archive)
+
+Purpose: Preserves the complete v2.0 subsystem overview, including Constellation
+placement, interface governance model, mapping flows, Interface‑Integrity layers,
+Bridge Invariants v1.1, failure modes, repository structure, usage guidance, and
+the authoritative provenance footer from the active v2.0 edition.
+
+Archival Notes:
+  - Archived upon preparation for NDH‑Zen‑Bridge v2.1 lineage‑sync release.
+  - Superseded by README v2.1 (active edition).
+  - Maintains full text for historical, comparative, and governance‑safe reference.
+  - Frozen under Unified‑Provenance‑Grammar v1.0.
+
+Version: v2.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 06 August 2026 — 09:50 IST
+---
+
