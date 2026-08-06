@@ -9,6 +9,100 @@ This changelog follows NDH‑Constellation conventions:
 
 ---
 
+## 🟦 **v2.1 — Equilibrium‑Anchored Edition**  
+**Date:** 06 August 2026 — 10:28 IST  
+**Maintainer:** Borealis S. Hedling
+
+### ✨ Added
+- **Seam‑Energy Equilibrium v2.1**  
+  - Introduced equilibrium geometry  
+  - Added tone‑field stillness model  
+  - Added seam‑pressure stabilization doctrine  
+  - Completed Interface‑Integrity Cycle
+
+- **Architecture Spine Index v2.1**  
+  - Updated ontology and lineage  
+  - Added equilibrium anchors  
+  - Added rendering‑engine alignment references
+
+- **Architecture Overview v2.1**  
+  - Added equilibrium geometry  
+  - Added dissipation → equilibrium transition  
+  - Updated mapping flows  
+  - Expanded failure‑mode detection  
+  - Added rendering‑engine alignment
+
+- **Cross‑Layer Omnibus & Map v2.1**  
+  - Updated ASCII diagrams  
+  - Updated comparison tables  
+  - Added equilibrium‑anchored cross‑layer model  
+  - Added governance‑aligned validation questions
+
+- **Teaching: Seam‑Energy Equilibrium v2.1**  
+  - Added new teaching lineage node  
+  - Completed equilibrium teaching cycle
+
+- **Rendering‑Engine Integration Notes v2.1**  
+  - Added dissipation curves  
+  - Added equilibrium‑pressure rules  
+  - Added tone‑field collapse detection
+
+---
+
+### 📁 Structural Updates
+- Added `architecture/architecture_spine_index_v2_1.md`  
+- Added `architecture/bridge_architecture_overview_v2_1.md`  
+- Added `architecture/cross_layer_omnibus_and_map_v2_1.md`  
+- Updated `README.md` to v2.1  
+- Updated repository structure to reflect active v2.1 surfaces  
+- Archived all v2.0 surfaces with dual‑footprint provenance
+
+---
+
+### 📚 Documentation Alignment
+- Synchronized subsystem documentation with:  
+  - Interface Governance Map v1.0  
+  - Bridge Invariants v1.1  
+  - Architecture Overview v2.1  
+  - Seam‑Energy Equilibrium Teaching v2.1  
+- Corrected lineage anchors and mapping flow annotations  
+- Updated equilibrium geometry references
+
+---
+
+### 🌀 Teaching Cycle Completion
+- Completed teaching lineage: **v1.1 → v2.0 → v2.1**  
+- Integrated equilibrium teachings into architecture surfaces  
+- Ensured teaching cycle matches Interface‑Integrity Cycle v2.1
+
+---
+
+### 🗄️ Archived
+- `archive/ndh_zen_bridge_readme_v2_0.md`  
+- `archive/architecture_spine_index_v2_0.md`  
+- `archive/bridge_architecture_overview_v2_0.md`  
+- `archive/cross_layer_omnibus_and_map_v2_0.md`  
+All archived with **dual‑footprint provenance**.
+
+---
+
+### 🛠️ Fixed
+- Corrected posture/cognition separation references  
+- Corrected equilibrium curvature diagrams  
+- Corrected dissipation curve annotations  
+- Corrected lineage anchors in architecture surfaces  
+- Corrected repository index alignment
+
+---
+
+### 🛡 Governance & Safety
+- Reinforced seam‑sovereignty constraints  
+- Reinforced non‑contamination rules  
+- Reinforced governance lane separation  
+- Reinforced rendering‑engine safety checks  
+
+---
+
 ## 🟦 **v2.0 — Equilibrium Edition**  
 **Date:** 04 August 2026 — 17:17 IST  
 **Maintainer:** Borealis S. Hedling
@@ -45,7 +139,7 @@ This changelog follows NDH‑Constellation conventions:
   - Interface Governance Map v1.0  
   - Invariants v1.1  
   - Architecture Overview v2.0  
-  - Teaching Loop‑de‑Loop v2.0  
+  - Teaching Loop‑de‑Loop v2_0  
 - Corrected directory listings and artifact lineage
 
 ### 🌀 Teaching Cycle Completion
@@ -105,8 +199,9 @@ to the NDH‑Zen‑Bridge subsystem across its full lifecycle.
 
 Maintainer: Borealis S. Hedling
 Location: Dublin, Ireland
-Timestamp: 04 August 2026 — 17:17 IST
+Timestamp: 06 August 2026 — 10:28 IST
 ---
 ```
 
 ---
+
