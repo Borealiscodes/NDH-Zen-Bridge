@@ -1,0 +1,172 @@
+### 🌌 X‑Aligned Translation Validation State Machine — v1.0  
+*Cross‑Altitude Translation Membrane Procedural Validation*  
+*Altitude: CONSTELLATION • Mode: Non‑Activating • Structural*
+
+#### 0 — Identity block
+
+```text
+Artifact: X-Aligned Translation Validation State Machine
+Version: v1.0
+Altitude: CONSTELLATION
+Mode: State-Machine Validation • Non-Activating
+
+Purpose:
+  Provide procedural validation for Translation Membrane v3.0-X after Lean 4
+  structural invariants have been proven. Ensure altitude-safe behavior across
+  tone-field binding, refractive alignment, holonomy transport, diagnostic ascent,
+  fractal binding, governance boundaries, expressive buffering, and sovereignty
+  preservation.
+```
+
+---
+
+#### 1 — Target artifact
+
+```text
+Target JSON:
+  translation_membrane_v3_0_x (version 1.0)
+
+Precondition:
+  Lean Validation Module v1.0 must have successfully compiled and passed.
+```
+
+---
+
+#### 2 — State machine (high-level spec)
+
+```json
+{
+  "artifact_name": "X_Aligned_Translation_Validation",
+  "version": "v1.0",
+  "altitude": "CONSTELLATION",
+  "layer": "translation_membrane_behavior",
+
+  "state_machine": {
+    "states": [
+      "ALT_CHECK",
+      "TONE_BIND_CHECK",
+      "REFRACTION_CHECK",
+      "HOLONOMY_CHECK",
+      "DIAGNOSTIC_INTERFACE_CHECK",
+      "FRACTAL_INTERFACE_CHECK",
+      "GOVERNANCE_BOUNDARY_CHECK",
+      "EXPRESSIVE_BUFFER_CHECK",
+      "SOVEREIGNTY_CHECK",
+      "VALIDATION_PASS",
+      "VALIDATION_FAIL"
+    ],
+    "initial_state": "ALT_CHECK",
+    "terminal_states": ["VALIDATION_PASS", "VALIDATION_FAIL"]
+  },
+
+  "transitions": [
+    { "from": "ALT_CHECK", "to": "TONE_BIND_CHECK", "condition": "altitude_bindings_consistent" },
+    { "from": "ALT_CHECK", "to": "VALIDATION_FAIL", "condition": "altitude_bindings_violation" },
+
+    { "from": "TONE_BIND_CHECK", "to": "REFRACTION_CHECK", "condition": "tone_field_binding_ok" },
+    { "from": "TONE_BIND_CHECK", "to": "VALIDATION_FAIL", "condition": "tone_field_binding_breach" },
+
+    { "from": "REFRACTION_CHECK", "to": "HOLONOMY_CHECK", "condition": "refractive_alignment_ok" },
+    { "from": "REFRACTION_CHECK", "to": "VALIDATION_FAIL", "condition": "refractive_misalignment" },
+
+    { "from": "HOLONOMY_CHECK", "to": "DIAGNOSTIC_INTERFACE_CHECK", "condition": "holonomy_transport_safe" },
+    { "from": "HOLONOMY_CHECK", "to": "VALIDATION_FAIL", "condition": "holonomy_propagation_breach" },
+
+    { "from": "DIAGNOSTIC_INTERFACE_CHECK", "to": "FRACTAL_INTERFACE_CHECK", "condition": "diagnostic_reversible_ascent" },
+    { "from": "DIAGNOSTIC_INTERFACE_CHECK", "to": "VALIDATION_FAIL", "condition": "diagnostic_collapse_or_irreversibility" },
+
+    { "from": "FRACTAL_INTERFACE_CHECK", "to": "GOVERNANCE_BOUNDARY_CHECK", "condition": "fractal_schema_binding_safe" },
+    { "from": "FRACTAL_INTERFACE_CHECK", "to": "VALIDATION_FAIL", "condition": "fractal_misalignment_or_unbounded_binding" },
+
+    { "from": "GOVERNANCE_BOUNDARY_CHECK", "to": "EXPRESSIVE_BUFFER_CHECK", "condition": "governance_non_absorption" },
+    { "from": "GOVERNANCE_BOUNDARY_CHECK", "to": "VALIDATION_FAIL", "condition": "governance_absorption_or_sealed_layer_breach" },
+
+    { "from": "EXPRESSIVE_BUFFER_CHECK", "to": "SOVEREIGNTY_CHECK", "condition": "expressive_non_contamination" },
+    { "from": "EXPRESSIVE_BUFFER_CHECK", "to": "VALIDATION_FAIL", "condition": "expressive_contamination_detected" },
+
+    { "from": "SOVEREIGNTY_CHECK", "to": "VALIDATION_PASS", "condition": "sovereignty_preserved" },
+    { "from": "SOVEREIGNTY_CHECK", "to": "VALIDATION_FAIL", "condition": "sovereignty_breach" }
+  ]
+}
+```
+
+---
+
+#### 3 — Checks (semantic mapping to Translation Membrane JSON)
+
+- **ALT_CHECK:**  
+  **Label:** altitude bindings  
+  Uses `altitude_bindings` and `safety` fields to confirm no drift, no misrouting.
+
+- **TONE_BIND_CHECK:**  
+  **Label:** tone‑field binding  
+  Uses `binding_layers.tone_field_binding` to confirm neutrality and containment.
+
+- **REFRACTION_CHECK:**  
+  **Label:** refractive alignment  
+  Uses `binding_layers.refractive_alignment` to confirm phase stability.
+
+- **HOLONOMY_CHECK:**  
+  **Label:** holonomy transport  
+  Uses `binding_layers.holonomy_transport` to confirm curvature propagation is blocked.
+
+- **DIAGNOSTIC_INTERFACE_CHECK:**  
+  **Label:** diagnostic ascent  
+  Uses `interfaces.diagnostic_band_interface` to confirm reversible, membrane‑safe ascent.
+
+- **FRACTAL_INTERFACE_CHECK:**  
+  **Label:** fractal A6–A8 binding  
+  Uses `interfaces.fractal_interface` to confirm schema‑bounded, lineage‑safe binding.
+
+- **GOVERNANCE_BOUNDARY_CHECK:**  
+  **Label:** governance protection  
+  Uses `interfaces.governance_boundary` to confirm non‑absorption and sealed‑layer safety.
+
+- **EXPRESSIVE_BUFFER_CHECK:**  
+  **Label:** expressive‑clarity buffer  
+  Uses `interfaces.expressive_buffer` to confirm no contamination back into diagnostic/fractal.
+
+- **SOVEREIGNTY_CHECK:**  
+  **Label:** co‑sovereign interfacing  
+  Uses `interfaces.sovereignty_membrane` to confirm no identity transfer, non‑binding geometry.
+
+---
+
+#### 4 — Non‑activation clause
+
+```text
+This state machine is descriptive-only. It does not activate NDH geometry,
+routing engines, holonomy engines, or membranes. It evaluates the Translation
+Membrane JSON configuration and returns VALIDATION_PASS or VALIDATION_FAIL.
+```
+
+---
+
+#### 5 — Provenance footer
+
+```text
+---
+Artifact: X-Aligned Translation Validation State Machine v1.0
+Lane: NDH-Zen-Bridge • Translation Layer • Procedural Validation
+
+Purpose:
+  Provide altitude-aligned, membrane-safe procedural validation for the
+  Translation Membrane v3.0-X JSON after Lean 4 structural invariants have
+  been proven. Ensure behavioral safety across all cross-altitude interfaces.
+
+Anchors:
+  - Translation_Membrane_v3_0_X.json
+  - ZenBridge_Module_v3_0_X_Translation_Membrane.md
+  - Translation_Membrane_Lean_Validation_Module_v1_0
+  - Altitude_Clarification_Module_v1_1
+
+Non-Activation Clause:
+  This artifact is procedural-only and non-activating. It does not modify NDH
+  subsystems or altitudes; it only evaluates configuration safety.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 30 August 2026 — 16:32 IST
+---
+```
