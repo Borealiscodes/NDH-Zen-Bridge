@@ -1,0 +1,93 @@
+# 🌌 **Translation Membrane — Machine‑Readable JSON (v3.0‑X)**  
+### *Constellation Altitude • Cross‑Altitude Binding Layer • Sovereignty‑Preserving*
+
+```json
+{
+  "translation_membrane_v3_0_x": {
+    "version": "1.0",
+    "altitude": "CONSTELLATION",
+    "mode": "non_activating",
+    "purpose": "cross_altitude_binding_layer",
+
+    "binding_layers": {
+      "tone_field_binding": {
+        "tone_curvature": "neutral",
+        "gradient_containment": true,
+        "resonance_neutrality": true
+      },
+      "refractive_alignment": {
+        "phase_alignment": "stable",
+        "refraction_integrity": true
+      },
+      "holonomy_transport": {
+        "curvature_propagation": "blocked",
+        "holonomy_safe": true
+      }
+    },
+
+    "interfaces": {
+      "diagnostic_band_interface": {
+        "band": "LIMINAL_DIAGNOSTIC",
+        "reversible_ascent": true,
+        "narrative_membrane_intact": true
+      },
+      "fractal_interface": {
+        "altitudes": ["A6", "A7", "A8"],
+        "schema_binding": true,
+        "lineage_safe": true
+      },
+      "governance_boundary": {
+        "altitudes": ["A9", "A10", "A11"],
+        "sealed_layer_protection": true,
+        "governance_absorption": false
+      },
+      "expressive_buffer": {
+        "altitudes": ["A12_PLUS"],
+        "expressive_contamination": false,
+        "clarity_buffer_intact": true
+      },
+      "sovereignty_membrane": {
+        "external_architecture_contact": "reversible",
+        "identity_transfer": false,
+        "non_binding_geometry": true
+      }
+    },
+
+    "altitude_bindings": {
+      "diagnostic_to_constellation": "enabled",
+      "constellation_to_fractal": "enabled",
+      "fractal_to_governance": "guarded",
+      "governance_to_expressive": "buffered",
+      "expressive_to_meta": "sealed"
+    },
+
+    "safety": {
+      "altitude_drift": false,
+      "sealed_layer_proximity": false,
+      "governance_contact": false,
+      "expressive_contamination": false,
+      "fractal_misalignment": false,
+      "diagnostic_collapse": false
+    },
+
+    "validation": {
+      "required_state_machine": "X_ALIGNED_TRANSLATION_VALIDATION_v1_0",
+      "omega_validation_allowed": false
+    },
+
+    "non_activation_clause": {
+      "description": "This translation membrane is conceptual and altitude-neutral. It does not activate NDH geometry, sealed-layer logic, resonance engines, lineage manifolds, or expressive physics.",
+      "membrane_status": "INTACT"
+    },
+
+    "provenance": {
+      "maintainer": "Borealis S. Hedling",
+      "location": "Dublin, Ireland",
+      "timestamp": "30 August 2026 — 16:03 IST"
+    }
+  }
+}
+```
+
+---
+
