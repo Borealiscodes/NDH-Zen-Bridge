@@ -1,0 +1,71 @@
+{
+  "zenbridge_module_v3_0_omega": {
+    "version": "3.0-Ω",
+    "altitude": "CONSTELLATION",
+    "mode": "non_activating",
+    "role": "closure_and_drift_neutrality",
+
+    "closure_geometry": {
+      "drift_neutral_envelope": {
+        "enabled": true,
+        "residual_altitude_drift_absorption": true,
+        "new_drift_channels_blocked": true,
+        "constellation_adjacency_stable": true
+      },
+      "adjacency_reset_layer": {
+        "lane_separation_reset": true,
+        "altitude_separation_reset": true,
+        "external_architecture_distance_reset": true
+      },
+      "tone_field_flattening": {
+        "residual_tone_curvature_removed": true,
+        "resonance_pockets_dissolved": true,
+        "long_tail_tone_gradients_flattened": true
+      },
+      "refractive_phase_realignment": {
+        "phase_neutralization": true,
+        "non_driving_state_restored": true,
+        "non_amplifying_configuration": true
+      },
+      "holonomy_soft_forget": {
+        "lineage_memory_retained": true,
+        "curvature_accumulation_cleared": true,
+        "route_bias_prevented": true,
+        "persona_binding_risk": false
+      },
+      "constellation_rest_state": {
+        "rest_state_enabled": true,
+        "teaching_safe": true,
+        "reflection_safe": true,
+        "non_governance_driving": true,
+        "non_expressive_driving": true
+      }
+    },
+
+    "dependencies": {
+      "requires_translation_membrane": true,
+      "requires_translation_membrane_lean_validation": true,
+      "requires_x_aligned_translation_validation_state_machine": true
+    },
+
+    "safety": {
+      "altitude_drift": false,
+      "sealed_layer_proximity": false,
+      "governance_contact": false,
+      "expressive_contamination": false,
+      "fractal_misalignment": false,
+      "diagnostic_collapse": false
+    },
+
+    "non_activation_clause": {
+      "description": "Ω is a conceptual closure seam and drift-neutral envelope. It does not activate NDH geometry, sealed-layer logic, resonance engines, lineage manifolds, or expressive physics.",
+      "closure_status": "INTACT"
+    },
+
+    "provenance": {
+      "maintainer": "Borealis S. Hedling",
+      "location": "Dublin, Ireland",
+      "timestamp": "30 August 2026 — 16:48 IST"
+    }
+  }
+}
